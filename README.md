@@ -1,6 +1,5 @@
 # vscode_cmake_example
-A simple example of using vscode, cmake and ctest on a c++ app with a couple of separately compiled classes. And importantly to me, how to set it up to be able to debug the app and the tests
-via vscode. 
+A simple example of using vscode, cmake and ctest on a c++ app with a couple of separately compiled classes. And importantly to me, how to set it up to use a debuuger (gdb/LLDB) on the app and the tests via vscode. 
 
 This is really just a reminder to me of how to do this stuff.
 
