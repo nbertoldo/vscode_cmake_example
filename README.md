@@ -11,4 +11,4 @@ A few of the interesting points for anyone trying to figure out cmake, ctest and
 -   setup launch.json settings to debug the finall app and the indivdual unit tests. 
 -   Have used setting variables of type "promptString" and "pickString" to remove duplication of file and directory names from the task.json and launch.json files.
 
-Comments and improvements welcome.
+Comments and improvements welcome. Thanks
