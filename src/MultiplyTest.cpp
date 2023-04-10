@@ -3,6 +3,7 @@
 #include "AddClass.hpp"
 
 int main(int argc, const char* argv[]) {
+    std::cout << "Hello world!" << std::endl;
     if (argc != 3) {
         throw "incorrect number of cli arguments";
     }
