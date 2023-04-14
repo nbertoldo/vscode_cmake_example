@@ -1,8 +1,9 @@
 name: CMake
 
 on:
-  pull_request:
-    types: [ready_for_review, synchronize]
+  # pull_request:
+  #   types: [ready_for_review, synchronize]
+  push:
     branches: [ "dev" ]
     paths-ignore:
       - 'src/**'
