@@ -4,9 +4,8 @@ on:
   pull_request:
     types: [ready_for_review, synchronize]
     branches: [ "dev" ]
-    paths:
+    paths-ignore:
       - 'src/**'
-      - 'tests/**'
 
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
